@@ -1,3 +1,7 @@
+#Autor: Aline Araújo
+#Data: 02/04/2024
+#Descrição: Este script cria uma interface gráfica com botões que abrem links e programas relacionados a finanças, contabilidade e automação. 
+
 import tkinter as tk
 import webbrowser
 import os
